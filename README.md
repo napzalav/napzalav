@@ -1,12 +1,9 @@
 <p align="center" width="300">
    <img align="center" width="200" src="./fallout-4-vault-boy.jpg" />
-   <h3 align="center">¡Hey 👋! Soy napzalav! 👨🏻‍💻</h3>
+   <h3 align="center">¡Hey! Soy Cesar! 👋 </h3>
 </p>
-# Hey! Soy Cesar! 👋
 
-Soy Full Stack Developer & Tester QA 
-<br>
-![Logo](./fallout-4-vault-boy.jpg)
+<p align="center">Soy <strong>Soy Full Stack Developer & Tester QA</strong>.<br />¡Conoceme un poco más 👇!</p>
 
 
 ## 👾 Stack Frontend
@@ -31,7 +28,7 @@ JIRA, Postman, Selenium, JMETER
 
 [![portfolio](https://img.shields.io/badge/mi_portfolito-000?style=for-the-badge&logo=ko-fi&logoColor=yellow)](https://frontendcda.web.app/)
 
-## Algunos Canales de YT que me enseñaron!
+## Algunos Canales de YT de los que aprendo!
 
  - [TodoCode](https://www.youtube.com/@TodoCode)
  - [midudev](https://www.youtube.com/@midudev)
