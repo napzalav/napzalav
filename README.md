@@ -1,6 +1,6 @@
 <p align="center" width="500">
-   <h2 align="center">¡Hey! Soy Cesar! 👋 </h3>
    <img align="center" width="400" src="./fallout-4-vault-boy.jpg" />
+   <h2 align="center">¡Hey! Soy Cesar! 👋 </h3>
 </p>
 
 <p align="center"><strong>Full Stack Developer & Tester QA</strong>.<br />¡Conoceme un poco más 👇!</p>
