@@ -1,9 +1,9 @@
-<p align="center" width="300">
-   <img align="center" width="200" src="./fallout-4-vault-boy.jpg" />
-   <h3 align="center">¡Hey! Soy Cesar! 👋 </h3>
+<p align="center" width="500">
+   <img align="center" width="400" src="./fallout-4-vault-boy.jpg" />
+   <h2 align="center">¡Hey! Soy Cesar! 👋 </h3>
 </p>
 
-<p align="center">Soy <strong>Soy Full Stack Developer & Tester QA</strong>.<br />¡Conoceme un poco más 👇!</p>
+<p align="center">Soy <strong>Full Stack Developer & Tester QA</strong>.<br />¡Conoceme un poco más 👇!</p>
 
 
 ## 👾 Stack Frontend
