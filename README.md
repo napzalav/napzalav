@@ -1,16 +1,39 @@
-### Hi there 👋
 
-<!--
-**napzalav/napzalav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hey! Soy Cesar! 👋
 
-Here are some ideas to get you started:
+Soy Full Stack Developer & Tester QA 
+![Logo](./fallout-4-vault-boy.jpg)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 👾 Stack Frontend
+Javascript, HTML, CSS, Angular, Botstrap
+
+## 🧬 Stack Backend
+Java, PHP, MySQL, Firebase
+
+## 🧪 Skills Testing
+JIRA, Postman, Selenium, JMETER
+
+
+## 📌 Documentación que consulto y tal vez te sirva:
+
+ - [PHP](https://www.php.net/manual/es/)
+ - [W3School](https://www.w3schools.com/)
+
+
+
+## 🔗 Encuentrame en:
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cesaralavila/)
+
+[![portfolio](https://img.shields.io/badge/mi_portfolito-000?style=for-the-badge&logo=ko-fi&logoColor=yellow)](https://frontendcda.web.app/)
+
+## Algunos Canales de YT que me enseñaron!
+
+ - [TodoCode](https://www.youtube.com/@TodoCode)
+ - [midudev](https://www.youtube.com/@midudev)
+ - [MoureDev](https://www.youtube.com/@mouredev)
+ - [HolaMundo!](https://www.youtube.com/@HolaMundoDev)
+ - [CodingTube](https://www.youtube.com/@CodingTube)
+ - [hdeleon.net](https://www.youtube.com/@hdeleonnet)
+ - [MGBComputacion](https://www.youtube.com/@MGBComputacion)
+ - [Develoteca](https://www.youtube.com/@Develoteca)
