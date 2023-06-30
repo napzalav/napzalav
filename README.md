@@ -1,5 +1,5 @@
-<p align="center" width="500">
-   <img align="center" width="400" src="./Avatar.png" />
+<p align="center" width="300">
+   <img align="center" width="200" src="./Avatar.png" />
    <h2 align="center">¡Hey! Soy Cesar! 👋 </h3>
 </p>
 
