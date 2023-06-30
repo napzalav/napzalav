@@ -1,5 +1,5 @@
 <p align="center" width="500">
-   <img align="center" width="400" src="./fallout-4-vault-boy.jpg" />
+   <img align="center" width="400" src="./Avatar.png" />
    <h2 align="center">¡Hey! Soy Cesar! 👋 </h3>
 </p>
 
@@ -16,17 +16,17 @@ Java, PHP, MySQL, Firebase
 JIRA, Postman, Selenium, JMETER
 
 
-## 📌 Documentación que consulto y tal vez te sirva:
-
- - [PHP](https://www.php.net/manual/es/)
- - [W3School](https://www.w3schools.com/)
-
-
-
 ## 🔗 Encuentrame en:
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cesaralavila/)
 
 [![portfolio](https://img.shields.io/badge/mi_portfolito-000?style=for-the-badge&logo=ko-fi&logoColor=yellow)](https://frontendcda.web.app/)
+
+
+## 📌 Documentación útil:
+
+ - [PHP](https://www.php.net/manual/es/)
+ - [W3School](https://www.w3schools.com/)
+
 
 ## Algunos Canales de YT de los que aprendo!
 
