@@ -38,7 +38,27 @@
     
 
 ## 🧬 Stack Backend
-Java, PHP, MySQL, Firebase
+<p align="left">JAVA
+  <a href="https://www.java.com" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" />
+  </a>
+</p>
+<p align="left">PHP
+  <a href="https://www.php.net" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40" />
+  </a>
+</p>
+<p align="left">MySQL
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" />
+  </a>
+</p>
+<p align="left">Firebase
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+      <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" />
+  </a>
+</p>
+    
 
 ## 🧪 Skills Testing
 JIRA, Postman, Selenium, JMETER
