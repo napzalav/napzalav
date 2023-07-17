@@ -89,6 +89,7 @@
 
  - [PHP](https://www.php.net/manual/es/)
  - [W3School](https://www.w3schools.com/)
+ - [Packagist](https://packagist.org/)
 
 
 ## Algunos Canales de YT de los que aprendo!
