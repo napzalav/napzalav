@@ -104,3 +104,5 @@
  - [hdeleon.net](https://www.youtube.com/@hdeleonnet)
  - [MGBComputacion](https://www.youtube.com/@MGBComputacion)
  - [Develoteca](https://www.youtube.com/@Develoteca)
+ - [J&G Proyectos Web](https://www.youtube.com/@Jygproyectosweb)
+ - [Códigos de Programación - MR](https://www.youtube.com/@codigosdeprogramacion)
