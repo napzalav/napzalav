@@ -90,6 +90,7 @@
  - [PHP](https://www.php.net/manual/es/)
  - [W3School](https://www.w3schools.com/)
  - [Packagist](https://packagist.org/)
+ - [Zebra_Pagination](https://github.com/stefangabos/Zebra_Pagination)
  - [PHPMailer](https://github.com/PHPMailer/PHPMailer)
 
 
