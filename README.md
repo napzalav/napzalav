@@ -92,6 +92,7 @@
  - [Packagist](https://packagist.org/)
  - [Zebra_Pagination](https://github.com/stefangabos/Zebra_Pagination)
  - [PHPMailer](https://github.com/PHPMailer/PHPMailer)
+ - [FPDF](http://fpdf.org/)
 
 
 ## Algunos Canales de YT de los que aprendo!
