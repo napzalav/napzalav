@@ -7,6 +7,7 @@
 
 
 ## 👾 Stack Frontend
+[![HTML](./images/html-48.png)](https://lenguajehtml.com/) [![CSS](./images/css-48.png)](https://lenguajecss.com/) [![Javascript](./images/javascript-48.png)](https://lenguajejs.com/) [![Terminal](./images/terminal-48.png)](https://terminaldelinux.com/)
 <p align="left">HTML
    <a href="https://www.w3schools.com/html/default.asp" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" />
