@@ -10,7 +10,7 @@
 [![HTML](./images/html-48.png)](https://lenguajehtml.com/) [![CSS](./images/css-48.png)](https://lenguajecss.com/) [![Javascript](./images/javascript-48.png)](https://lenguajejs.com/) [![Angular](./images/angular.png)](https://angular.io) [![Bootstrap](./images/bootstrap.png)](https://getbootstrap.com)
 
 ## 🧬 Stack Backend
-[![Java](./images/java.png)](https://www.java.com) [![PHP](./images/php.png)](https://www.php.net) [![MySQL](./images/mysql.png)](https://www.mysql.com/) [![Firebase](./images/firebase.png)](https://firebase.google.com/)
+[![Java](./images/java.png)](https://www.java.com) [![PHP](./images/php.png)](https://www.php.net) [![MySQL](./images/mysql.png)](https://www.mysql.com/) [![Firebase](./images/firebase.png)](https://firebase.google.com/) [![Nodejs](./images/node.png)](https://nodejs.org/es)
     
 
 ## 🧪 Skills Testing
