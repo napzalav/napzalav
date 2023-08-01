@@ -16,27 +16,6 @@
 ## 🧪 Skills Testing
 [![Postman](./images/postman.png)](https://postman.com) [![Selenium](./images/selenium-logo.png)](https://www.selenium.dev) [![JMETER](./images/jmeter.png)](https://jmeter.apache.org/) [![JIRA](./images/jira.png)](https://www.atlassian.com/es/software/jira)
 
-<p align="left">Postman
-  <a href="https://postman.com" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" />
-  </a>
-</p>
-<p align="left">Selenium
-  <a href="https://www.selenium.dev" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40" />
-  </a>
-</p>
-<p align="left">JMETER
-  <a href="https://jmeter.apache.org/" target="_blank" rel="noreferrer">
-      <img src="https://jmeter.apache.org/images/logo.svg" alt="jmeter" width="40" height="40" />
-  </a>
-</p>
-<p align="left">JIRA
-  <a href="https://www.atlassian.com/es/software/jira" target="_blank" rel="noreferrer">
-      <img src="https://wac-cdn.atlassian.com/dam/jcr:ab384028-e8a3-4dd1-8b45-6d564ef7936a/Jira%20Software_24.svg?cdnVersion=1084" alt="jira" width="40" height="40" />
-  </a>
-</p>
-
 
 ## 🔗 Encuentrame en:
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cesaralavila/)
