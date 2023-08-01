@@ -14,6 +14,8 @@
     
 
 ## 🧪 Skills Testing
+[![Postman](./images/postman.png)](https://postman.com) [![Selenium](./images/selenium-logo.png)](https://www.selenium.dev) [![JMETER](./images/jmeter.png)](https://jmeter.apache.org/) [![JIRA](./images/jira.png)](https://www.atlassian.com/es/software/jira)
+
 <p align="left">Postman
   <a href="https://postman.com" target="_blank" rel="noreferrer">
       <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" />
