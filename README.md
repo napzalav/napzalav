@@ -47,3 +47,10 @@
  - [Códigos de Programación - MR](https://www.youtube.com/@codigosdeprogramacion)
  - [UPEX - Saitest](https://www.youtube.com/@Saitest)
  - [OpenBootcamp](https://www.youtube.com/@OpenBootcamp)
+
+
+## 🕹 Útiles
+
+- [Validador HTML](https://validator.w3.org/#validate_by_upload)
+- [ILovePDF](https://www.ilovepdf.com/es)
+- [Conversor](https://www.online-convert.com/es)
