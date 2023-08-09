@@ -55,3 +55,4 @@
 - [Validador CSS](https://jigsaw.w3.org/css-validator/#validate_by_input)
 - [ILovePDF](https://www.ilovepdf.com/es)
 - [Conversor](https://www.online-convert.com/es)
+- [Removedor de fondos](https://www.remove.bg/es)
