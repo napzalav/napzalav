@@ -33,7 +33,7 @@
  - [FPDF](http://fpdf.org/)
 
 
-## Algunos Canales de YT de los que aprendo!
+## 🥇 Algunos Canales de YT de los que aprendo!
 
  - [TodoCode](https://www.youtube.com/@TodoCode)
  - [midudev](https://www.youtube.com/@midudev)
