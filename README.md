@@ -31,7 +31,7 @@
  - [Zebra_Pagination](https://github.com/stefangabos/Zebra_Pagination)
  - [PHPMailer](https://github.com/PHPMailer/PHPMailer)
  - [FPDF](http://fpdf.org/)
- - [Argentina Programa]
+ - [Patrones CSS](https://es.pattern.monster/)
 
 
 ## 🥇 Algunos Canales de YT de los que aprendo!
