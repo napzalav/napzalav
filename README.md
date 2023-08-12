@@ -31,8 +31,6 @@
  - [Zebra_Pagination](https://github.com/stefangabos/Zebra_Pagination)
  - [PHPMailer](https://github.com/PHPMailer/PHPMailer)
  - [FPDF](http://fpdf.org/)
- - [Patrones CSS](https://es.pattern.monster/)
-
 
 ## 🥇 Algunos Canales de YT de los que aprendo!
 
@@ -59,3 +57,4 @@
 - [Removedor de fondos](https://www.remove.bg/es)
 - [Acortador de Links](https://acortar.link/)
 - [Gradient CSS](https://cssgradient.io/)
+- [Patrones CSS](https://es.pattern.monster/) 
