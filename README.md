@@ -57,4 +57,5 @@
 - [Removedor de fondos](https://www.remove.bg/es)
 - [Acortador de Links](https://acortar.link/)
 - [Gradient CSS](https://cssgradient.io/)
-- [Patrones CSS](https://es.pattern.monster/) 
+- [Patrones CSS](https://es.pattern.monster/)
+- [RapidAPI](https://rapidapi.com/)
