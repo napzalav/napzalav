@@ -1,5 +1,5 @@
 <p align="center" width=100%>
-   <img align="center" height="200" src="./images/mario_chill.gif" />
+   <img align="center" height="200" width="500" src="./images/mario_chill.gif" />
    <h2 align="center">¡Hey! Soy Cesar! 👋 </h3>
 </p>
 
