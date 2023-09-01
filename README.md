@@ -68,3 +68,4 @@
 - [Patrones CSS](https://es.pattern.monster/)
 - [RapidAPI](https://rapidapi.com/)
 - [Hoppscotch](https://hoppscotch.io/)
+- [JSON Crack](https://jsoncrack.com/)
