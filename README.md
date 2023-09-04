@@ -1,6 +1,6 @@
 <p align="center" width=100%>
    <img align="center" height="250" width="550" src="./images/mario_chill.gif" />
-   <h2 align="center">¡Hey! Soy Cesar! 👋 </h3> <img height="30px" src="https://em-content.zobj.net/source/microsoft-teams/337/waving-hand_1f44b.png">
+   <h2 align="center">¡Hey! Soy Cesar! 👋 <img height="30px" src="https://em-content.zobj.net/source/microsoft-teams/337/waving-hand_1f44b.png"></h3> 
 </p>
 
 <p align="center"><strong>Full Stack Developer & Tester QA</strong>.</p><br />
