@@ -8,7 +8,7 @@
 
 <p>En el vasto territorio digital, intento dominar el reino Full Stack y los intrincados laberintos de las pruebas QA, desentrañando documentaciones y trazando estrategias de calidad🕹️👨‍💻🔍 Las líneas de código pueden ser desafiantes, pero no hay desafío mayor que resistirse a las delicias culinarias de mi esposa. <img height="30px" src="./images/github-mona.gif">🍔👩‍🍳</p>
    
-<p>Mi vida es una aventura en constante evolución, desde la pantalla y el teclado hasta el Reino Champiñón, soy un "jugador" incesante, competitivo y autoexigente, siempre persiguiendo desbloquear nuevos niveles de aprendizaje♟️🎮♛. Cada día trae nuevas oportunidades para conquistar y saborear 🌟🍽️  ¡Buen provecho y que empiece el juego!</p>  
+<p>Mi vida es una aventura en constante evolución, desde la pantalla y el teclado hasta el Reino Champiñón, soy un "jugador" incesante, competitivo y autoexigente, siempre persiguiendo desbloquear nuevos niveles de aprendizaje♟️🎮♛. Cada día trae nuevas oportunidades para conquistar y saborear 🌟🍽️  ¡Buen provecho y que empiece el juego!</p><img height="30px" src="./images/mario-run.gif">
 
 <p>¡Conoceme un poco más 👇!</p>
 
