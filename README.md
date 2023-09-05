@@ -1,6 +1,8 @@
 <p align="center" width=100%>
    <img align="center" height="250" width="550" src="./images/mario_chill.gif" />
-   <h2 align="center">¡Hey! Soy Cesar! <img height="50px" src="https://em-content.zobj.net/source/microsoft-teams/337/waving-hand_1f44b.png"></h3> 
+   <h2 align="center">¡Hey! Soy Cesar! <img height="50px" src="https://em-content.zobj.net/source/microsoft-teams/337/waving-hand_1f44b.png"></h3>
+   <img height="15px" src=".images/github-mona.gif">
+   
 </p>
 
 <p align="center"><strong>Full Stack Developer & Tester QA</strong>.</p><br />
@@ -10,8 +12,6 @@
 <p>Mi vida es una aventura en constante evolución, desde la pantalla y el teclado hasta el Reino Champiñón, soy un "jugador" incesante, competitivo y autoexigente, siempre persiguiendo desbloquear nuevos niveles de aprendizaje♟️🎮♛. Cada día trae nuevas oportunidades para conquistar y saborear 🌟🍽️  ¡Buen provecho y que empiece el juego!</p>  
 
 <p>¡Conoceme un poco más 👇!</p>
-   <img height="15px" src=".images/github-mona.gif">
-
 
 ## 👾 Stack Frontend
 [![HTML](./images/html-48.png)](https://lenguajehtml.com/) [![CSS](./images/css-48.png)](https://lenguajecss.com/) [![Javascript](./images/javascript-48.png)](https://lenguajejs.com/) [![Angular](./images/angular.png)](https://angular.io) [![Bootstrap](./images/bootstrap.png)](https://getbootstrap.com)
