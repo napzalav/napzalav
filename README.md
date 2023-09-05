@@ -54,6 +54,7 @@
  - [UPEX - Saitest](https://www.youtube.com/@Saitest)
  - [OpenBootcamp](https://www.youtube.com/@OpenBootcamp)
  - [Bluuweb](https://www.youtube.com/@bluuweb)
+ - [JonMircha](https://www.youtube.com/@jonmircha)
 
 
 ## 🕹 Útiles
