@@ -5,7 +5,7 @@
 
 <p align="center"><strong>Full Stack Developer & Tester QA</strong>.</p><br />
 
-<p>En el vasto territorio digital, intento dominar el reino Full Stack y los intrincados laberintos de las pruebas QA, desentrañando documentaciones y trazando estrategias de calidad🕹️👨‍💻🔍 Las líneas de código pueden ser desafiantes, pero no hay desafío mayor que resistirse a las delicias culinarias de mi esposa. 🍔👩‍🍳</p>
+<p>En el vasto territorio digital, intento dominar el reino Full Stack y los intrincados laberintos de las pruebas QA, desentrañando documentaciones y trazando estrategias de calidad🕹️👨‍💻🔍 Las líneas de código pueden ser desafiantes, pero no hay desafío mayor que resistirse a las delicias culinarias de mi esposa. <img height="10px" src="[https://em-content.zobj.net/source/microsoft-teams/337/waving-hand_1f44b.png](https://res.cloudinary.com/practicaldev/image/fetch/s--0LZFQ6Ls--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif)">🍔👩‍🍳</p>
    
 <p>Mi vida es una aventura en constante evolución, desde la pantalla y el teclado hasta el Reino Champiñón, soy un "jugador" incesante, competitivo y autoexigente, siempre persiguiendo desbloquear nuevos niveles de aprendizaje♟️🎮♛. Cada día trae nuevas oportunidades para conquistar y saborear 🌟🍽️  ¡Buen provecho y que empiece el juego!</p>  
 
