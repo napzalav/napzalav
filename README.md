@@ -42,6 +42,7 @@
 ## 🥇 Algunos Canales de YT de los que aprendo!
 
  - [TodoCode](https://www.youtube.com/@TodoCode)
+ - https://img.shields.io/badge/TodoCode-[you_like](https://www.youtube.com/@TodoCode)-red
  - [midudev](https://www.youtube.com/@midudev)
  - [MoureDev](https://www.youtube.com/@mouredev)
  - [HolaMundo!](https://www.youtube.com/@HolaMundoDev)
