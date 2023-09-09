@@ -75,3 +75,4 @@
 - [Hoppscotch](https://hoppscotch.io/)
 - [JSON Crack](https://jsoncrack.com/)
 - [Simple Icon](https://simpleicons.org/)
+- [HackerRank](https://www.hackerrank.com/dashboard)
