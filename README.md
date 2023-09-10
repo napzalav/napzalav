@@ -40,9 +40,7 @@
  - [FPDF](http://fpdf.org/)
 
 ## 🥇 Algunos Canales de YT de los que aprendo!
-[![Todocode](https://img.shields.io/badge/TodoCode-Youtube-red)](https://www.youtube.com/@TodoCode)
-
-[![Midudev](https://img.shields.io/badge/Midudev-Youtube-red)](https://www.youtube.com/@midudev)
+[![Todocode](https://img.shields.io/badge/TodoCode-Youtube-red)](https://www.youtube.com/@TodoCode) [![Midudev](https://img.shields.io/badge/Midudev-Youtube-red)](https://www.youtube.com/@midudev)
 
  - [TodoCode](https://www.youtube.com/@TodoCode)
  - [midudev](https://www.youtube.com/@midudev)
