@@ -43,12 +43,6 @@
 [![Todocode](https://img.shields.io/badge/TodoCode-red)](https://www.youtube.com/@TodoCode) [![Midudev](https://img.shields.io/badge/Midudev-lightblue)](https://www.youtube.com/@midudev) [![MoureDev](https://img.shields.io/badge/MoureDev-blue)]([https://www.youtube.com/@mouredev]) [![HolaMundo!](https://img.shields.io/badge/HolaMundo!-gray)]([[https://www.youtube.com/@HolaMundoDev]) [![CodingTube](https://img.shields.io/badge/CodingTube-blue)](https://www.youtube.com/@CodingTube) [![hdeleon.net](https://img.shields.io/badge/hdeleon.net-black)](https://www.youtube.com/@hdeleonnet) [![MGBComputacion](https://img.shields.io/badge/MGBComputacion-purple)](https://www.youtube.com/@MGBComputacion)
 
  - [TodoCode](https://www.youtube.com/@TodoCode)
- - [midudev](https://www.youtube.com/@midudev)
- - [MoureDev](https://www.youtube.com/@mouredev)
- - [HolaMundo!](https://www.youtube.com/@HolaMundoDev)
- - [CodingTube](https://www.youtube.com/@CodingTube)
- - [hdeleon.net](https://www.youtube.com/@hdeleonnet)
- - [MGBComputacion](https://www.youtube.com/@MGBComputacion)
  - [Develoteca](https://www.youtube.com/@Develoteca)
  - [J&G Proyectos Web](https://www.youtube.com/@Jygproyectosweb)
  - [Códigos de Programación - MR](https://www.youtube.com/@codigosdeprogramacion)
