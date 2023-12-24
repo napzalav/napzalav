@@ -45,6 +45,7 @@
 
 ## 🕹 Útiles
 
+[![Validador HTML](https://img.shields.io/badge/ValidadorHTML-red)](https://validator.w3.org/#validate_by_upload)
 - [Validador HTML](https://validator.w3.org/#validate_by_upload)
 - [Validador CSS](https://jigsaw.w3.org/css-validator/#validate_by_input)
 - [Excalidraw](https://excalidraw.com/)
